@@ -1,0 +1,50 @@
+{
+  "proximoId": 12,
+  "produtos": [
+    {
+      "id": 3,
+      "nome": "Bazuka",
+      "preco": 7101.5
+    },
+    {
+      "id": 4,
+      "nome": "fdsd",
+      "preco": 0
+    },
+    {
+      "id": 5,
+      "nome": "hhgfds",
+      "preco": 0.47
+    },
+    {
+      "id": 6,
+      "nome": "7uiadijndaskjnda",
+      "preco": 12141
+    },
+    {
+      "id": 7,
+      "nome": "vdsvfsd",
+      "preco": 21312
+    },
+    {
+      "id": 8,
+      "nome": "134",
+      "preco": 3422
+    },
+    {
+      "id": 9,
+      "nome": "sfadsdf",
+      "preco": 3242
+    },
+    {
+      "id": 10,
+      "nome": "231weq3422",
+      "preco": 243242
+    },
+    {
+      "id": 11,
+      "nome": "coca cola",
+      "preco": 5
+    }
+  ]
+}
